@@ -1,0 +1,94 @@
+﻿  Boss.cpp
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(42,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(43,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(54,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(55,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.h(61,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Boss.cpp(253,31): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Boss.cpp(280,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Boss.cpp(280,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Boss.cpp(279,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Boss.cpp(279,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item.cpp
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(42,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(43,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(54,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(55,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(42,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(43,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(54,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(55,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.h(61,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.cpp(119,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.cpp(268,22): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.cpp(351,22): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.cpp(490,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.cpp(490,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.cpp(489,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.cpp(489,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object.cpp
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(42,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(43,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(54,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(55,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Scene\Scene.h(95,10): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(167,25): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(167,25): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(167,37): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(167,37): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(167,52): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(167,52): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(167,76): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(167,76): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(168,35): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(168,35): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(168,66): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(168,66): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(168,97): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(168,97): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(168,145): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(168,145): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(181,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(181,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(181,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(181,12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(180,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(180,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(180,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Object.cpp(180,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(42,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(43,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(54,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(55,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Scene\Scene.h(95,10): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Player.cpp(169,21): warning C4244: '초기화 중': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Player.cpp(315,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Player.cpp(314,85): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Player.cpp(314,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Player.cpp(313,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  tractor.cpp
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(42,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(43,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(54,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(55,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\Monster.h(61,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\tractor.cpp(49,21): warning C4244: '초기화 중': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\tractor.cpp(54,22): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\tractor.cpp(123,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\tractor.cpp(123,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\tractor.cpp(122,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Object\tractor.cpp(122,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneManager.cpp
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(42,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(43,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(54,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Types.h(55,9): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Include\Scene\Scene.h(95,10): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  18 of 522 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Win32_Starcraft_GALAGA.vcxproj -> C:\Users\jmjan\OneDrive\바탕 화면\WIN32_게임\Win32_Starcraft_GALAGA - 최종본 - 복사본\Win32_Starcraft_GALAGA\Bin\Win32_Starcraft_GALAGA.exe
